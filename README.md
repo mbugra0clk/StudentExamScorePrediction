@@ -18,11 +18,6 @@ Kullanımı
 
 Not
  Kod %20 lik doğruluk payına sahip bunun sebebi yeterli veri kümesi bulunmamamasıdır.
-
-## Ekran Görüntüleri
-
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
   
 ## Lisans
 
